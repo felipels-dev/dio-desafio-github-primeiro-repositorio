@@ -1,7 +1,5 @@
 # Bootcamp Órbi Web Games Developer :book:
 
-Projeto pratico feito  com a [DIO](https://web.dio.me/home) de um jogo da velha, feito para aprofundar a utilização do HTML, CSS e Javascript.
-
 ## Objetivo:heavy_check_mark:
 
 Aprender as linguagens essenciais como HTML, CSS e  JavaScript para desenvolvimento de jogos.
